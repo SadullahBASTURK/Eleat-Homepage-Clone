@@ -1,7 +1,7 @@
 # Eleat Cereal Homepage Clone
 
 
-<img src="../Eleat-Homepage-Clone/images/screenshot-1.png" alt="">
+<img src="/images/screenshot-1.png" alt="">
 <img src="../Eleat-Homepage-Clone/images/screenshot-2.png" alt="">
 <img src="../Eleat-Homepage-Clone/images/screenshot-3.png" alt="">
 <img src="../Eleat-Homepage-Clone/images/screenshot-4.png" alt="">
